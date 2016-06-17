@@ -1,2 +1,2 @@
 # rails-world
-test description
+Hi this is my sample test rails app
